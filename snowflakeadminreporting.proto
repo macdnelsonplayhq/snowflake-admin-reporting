@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option go_package = "github.com/macdnelsonplayhq/snowflake-admin-reporting/protos/snowflakeadminreporting";
 option java_multiple_files = true;
-option java_package = "io.grpc.examples.admreportssvc";
+//option java_package = "io.grpc.examples.snowflakeadminreporting";
 option java_outer_classname = "SnowflakeAdminReportingProto";
 
 package snowflakeadminreporting;
